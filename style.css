@@ -2,3 +2,55 @@
     margin: 0;
     padding: 0;
 }
+
+
+.container{
+    height: 100vh;
+    width: 100vw;
+    /* background-color: rgb(109, 85, 53); */
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+.advantage{
+    /* background-color: antiquewhite; */
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    /* bottom: 12px; */
+}
+.advantageheading{
+
+}
+.innercontainer{
+    height: 60vh;
+    width: 90vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: rgb(255, 239, 239); */
+}
+.b1{
+    height: 45vh;
+    width: 21vw;
+    /* background-color: aqua; */
+    margin: 15px;
+    border-radius: 20px;
+}
+
+.b1data{
+    padding: 30px 0 0 12px;
+}
+.headingindiv{
+    padding: 10px 0;
+}
+.paraindiv{
+    
+    padding: 10px 0;
+}
